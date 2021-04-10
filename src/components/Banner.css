@@ -1,0 +1,9 @@
+header {
+  width: 100%;
+  height: 250px;
+  background: url(../assets//bbb.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 70px;
+  object-fit: contain;
+}
