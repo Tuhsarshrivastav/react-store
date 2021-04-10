@@ -1,3 +1,20 @@
+## React-store 🚀 🚀 🚀
+Live Demo 👉 https://react-store-5f33b.web.app/
+
+![Screenshot from 2021-04-10 09-17-46](https://user-images.githubusercontent.com/74534919/114257623-ea711100-99de-11eb-9bea-b8a6dd525e64.png)
+![Screenshot from 2021-04-10 09-18-15](https://user-images.githubusercontent.com/74534919/114257626-ec3ad480-99de-11eb-8001-000f0d36a0a3.png)
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>Context-Api</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Stripe</li>
+  </ul>
+</details>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
